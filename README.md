@@ -28,9 +28,9 @@ Execute the program using runserver command.
 <html>
     <body>
         <table border="1" cellspacing="5" cellpadding="1">
-            <caption>Logohaz/slotapp/static/logo.pngTimetable Name:shaik hazeed masthan Ref.no:24013396</caption>
+            <caption>"/static/logo.png" haz/slotapp/logo.png<ref:24013396> name: shaik hazeedmasthan</ref:24013396>Timetable</caption>
             <tr bgcolor="cyan">
-                <td>Day/Time</td>
+                <td>Day/Time</td>haz/slotapp/logo.png
                 <td>Monday</td>
                 <td>Tuesday</td>
                 <td>wednesday</td>
@@ -55,7 +55,7 @@ Execute the program using runserver command.
                 <th>chem</th>
                 <th>free</th>
                 <th>chem</th>
-            <tr>    
+            <tr>
             <tr>
                 <td bgcolor="red">12-1</td>
                 <th colspan="6">lunch</th>
@@ -128,12 +128,10 @@ Execute the program using runserver command.
                 <th>Yoga</th>
             </tr>
         </table>
-    </body>
+    </body>
 </html>
 ```
-
-
 ## OUTPUT
-![alt text](<Screenshot 2024-11-12 150246.png>)
+![alt text](<Screenshot 2024-11-25 152245.png>)
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
